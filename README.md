@@ -32,3 +32,7 @@ Choose the main.m file as shown in the image below!
 
 Ensure that the main.m file is open in the MATLAB editor and run alongside the python algorithm above by clicking the run button in the image below
 ![Pic 2](https://user-images.githubusercontent.com/68841450/144745583-a23d31e7-1f99-43a5-a79d-584151145ed1.png)
+
+# Worlds
+There is a world file attached which has the sphere used in this simulation. To use this world file change the path in the RB Vogui launch file so it leads to this file
+
