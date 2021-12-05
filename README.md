@@ -21,7 +21,7 @@ ROS_NAMESPACE=robot roslaunch rbvogui_ur5_moveit move_group.launch
 # Python Algorithm
 Once simulation and manipulator movement codes are finished initialising, run this code to start the python algorithm
 
-
+ROS_NAMESPACE=robot rosrun ur5_mover ur5_mover.py
 
 # Matlab Algorithm
 Open the folder shown in the image below
