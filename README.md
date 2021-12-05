@@ -1,5 +1,6 @@
 # RB-Vogui-Coverage
 
+# RB Vogui Simulation Repository
 Follow intructions below to download current RB Vogui simulation files
 
 https://github.com/RobotnikAutomation/rbvogui_sim
