@@ -28,7 +28,7 @@ Open the folder shown in the image below
 ![Pic 1](https://user-images.githubusercontent.com/68841450/144745525-cac5b59d-2302-46d9-9df0-10a21fd12ab1.png)
 
 Choose the main.m file as shown in the image below!
-[Screenshot from 2021-12-05 22-47-14](https://user-images.githubusercontent.com/68841450/144745555-989b658a-7d5d-400f-a9df-1af7db86c6fc.png)
+![Screenshot from 2021-12-05 22-47-14](https://user-images.githubusercontent.com/68841450/144745721-75d6bf91-c1e1-4047-b536-3d560f3e1d1f.png)
 
 Ensure that the main.m file is open in the MATLAB editor and run alongside the python algorithm above by clicking the run button in the image below
 ![Pic 2](https://user-images.githubusercontent.com/68841450/144745583-a23d31e7-1f99-43a5-a79d-584151145ed1.png)
