@@ -1,0 +1,45 @@
+repositories:
+  src/joint_read_command_controller:
+    type: git
+    url: https://github.com/RobotnikAutomation/joint_read_command_controller
+    version: v1.0.0
+  src/rbvogui_common:
+    type: git
+    url: https://github.com/RobotnikAutomation/rbvogui_common
+    version: f8fe7ce840893e391a46319bca5fe0a471431388
+  src/rbvogui_sim:
+    type: git
+    url: https://github.com/RobotnikAutomation/rbvogui_sim
+    version: 78c6d34c4407d1eb998604b51df2f4c5cded8a06
+  src/robotnik_msgs:
+    type: git
+    url: https://github.com/RobotnikAutomation/robotnik_msgs
+    version: melodic-1.0.0
+  src/robotnik_sensors:
+    type: git
+    url: https://github.com/RobotnikAutomation/robotnik_sensors
+    version: 03c2918d09f579b35a5aa654207e7dec0d0996d2
+  src/universal_robot:
+    type: git
+    url: https://github.com/fmauch/universal_robot.git
+    version: 1ffdd69181389b14b7d6342f0c5bad3b45c5e32f
+  src/robotnik_pad:
+    type: git
+    url: https://github.com/RobotnikAutomation/robotnik_pad.git
+    version: bc1683e20ec7f109ff9540b65de03b182516bfc9
+  src/rcomponent:
+    type: git
+    url: https://github.com/RobotnikAutomation/rcomponent.git
+    version: eca8716c73509b2676b3e5b290b1311b9f6fe081
+  src/teleop_panel:
+    type: git
+    url: https://github.com/RobotnikAutomation/teleop_panel.git
+    version: 350b052147b8fe7406ddbc656e2aea4c2ab67216
+  src/ewellix_description:
+    type: git
+    url: https://github.com/RobotnikAutomation/ewellix_description.git
+    version: d21c40e5fcbe86cdddbecbf320a92717fc895cdc
+  src/velodyne_simulator:
+    type: git
+    url: https://github.com/RobotnikAutomation/velodyne_simulator
+    version: 1.0.0
